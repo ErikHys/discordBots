@@ -1,5 +1,4 @@
 import discord
-
 from readToken import read_token
 
 
